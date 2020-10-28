@@ -27,6 +27,9 @@ class AnaSayfa extends StatefulWidget {
   _AnaSayfaState createState() => _AnaSayfaState();
 }
 
+
+
+
 class _AnaSayfaState extends State<AnaSayfa> {
   bool expend = false;
   String expo = "";
